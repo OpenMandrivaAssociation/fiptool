@@ -6,6 +6,8 @@ Summary: Tools for working with FIP (Firmware Image Package) images
 URL: https://github.com/ARM-software/arm-trusted-firmware
 License: BSD-3-Clause
 Group: Development/Tools
+BuildRequires: make
+BuildRequires: pkgconfig(libcrypto)
 
 %description
 Tools for working with FIP (Firmware Image Package) images.
