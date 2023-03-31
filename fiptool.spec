@@ -1,6 +1,6 @@
 Name: fiptool
 Version: 2.8.0
-Release: 1
+Release: 2
 Source0: https://github.com/ARM-software/arm-trusted-firmware/archive/refs/tags/v%{version}.tar.gz
 Summary: Tools for working with FIP (Firmware Image Package) images
 URL: https://github.com/ARM-software/arm-trusted-firmware
